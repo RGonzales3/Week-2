@@ -1,0 +1,65 @@
+
+#table1, #th1, #td1 {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    background-color:#a1b473;
+    color: black
+   
+}
+
+#table2, #th2, #td2{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    background-color: rgb(170, 63, 55);
+    color: white;
+
+}
+
+
+#th1, #th2 {
+    font-family: 'Courier New, Courier, monospace';
+    background-color:rgb(207, 144, 155);
+    color: white;
+}
+
+caption {
+    color:rgb(182, 18, 18);
+    font-family:  monospace;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color:#a1b473;
+    background-color:rgb(170, 63, 55);
+    box-shadow: 2px 2px 2px #a1b473;
+}
+
+/* Below are the style css I added for today's assignment*/
+
+body {
+    background-color: #BDC0C4;
+}
+
+h2 {
+    color: #fff;
+    background-color: #02114A;
+    text-align: center;
+    padding: 40px;
+    text-shadow: 2px 2px #000000;
+    
+}
+
+form {
+    text-align: center;
+    color: #000000;
+    text-shadow: 1px 1px #928D8D;
+    font-size: 110%;
+}
+
+input {
+    border: 2px solid #12426C;
+}
